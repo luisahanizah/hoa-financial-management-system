@@ -41,3 +41,9 @@
 ## 📊 Finance Entry Form
 
 ![Finance Entry Form](screenshots/financeentryform.jpg)
+
+---
+
+## 🏗️ System Architecture
+
+![System Architecture](diagrams/system-architecture.jpg)
