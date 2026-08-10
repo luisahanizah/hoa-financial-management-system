@@ -1,58 +1,43 @@
-# 🏡 HOA Financial Management System
+---
 
-A no-code HOA Financial Management System designed to automate payment collection, financial tracking, expense management, and reporting for homeowners associations.
+# 📸 System Preview
 
-## 🚀 Features
+## 📊 Dashboard
 
-- ✅ Automated Payment Recording
-- ✅ Multi-Month Dues Posting
-- ✅ Member Ledger
-- ✅ Monthly Payment Summary
-- ✅ Arrears Monitoring
-- ✅ Expense Management
-- ✅ Financial Dashboard
-- ✅ Income & Expense Reports
-- ✅ Pivot Table Reporting
-- ✅ HOA Financial Analytics
+![Dashboard](screenshots/dashboard.jpg)
 
-## 🛠 Technologies Used
+---
 
-- Google Sheets
-- Google Forms
-- Make.com
-- Pivot Tables
-- Google Dashboard
-- Spreadsheet Automation
+## 🔄 Make.com Payment Automation
 
-## 📊 Modules
+![Workflow](screenshots/makeworkflowhoa.jpg)
 
-### Collections
-- Payment Recording
-- Monthly Summary
-- Member Ledger
-- Arrears Report
+---
 
-### Financial Management
-- Expense Tracking
-- Income Tracking
-- Financial Reports
-- Dashboard
+## 👥 Member Ledger
 
-## 🔄 Workflow
+![Member Ledger](screenshots/memberledger.jpg)
 
-Google Form  
-⬇️  
-Make.com Automation  
-⬇️  
-Google Sheets Database  
-⬇️  
-Dashboard & Reports
+---
 
-## 📌 Project Goal
+## 📋 Monthly Summary
 
-To replace manual HOA bookkeeping with an automated, centralized, and easy-to-use financial management system that improves accuracy, reporting, and operational efficiency.
-## 📸 Workflow Preview
+![Monthly Summary](screenshots/monthlysummary.jpg)
 
-### Make.com Payment Automation
+---
 
-![Make Workflow](screenshots/makeworkflowhoa.jpg)
+## 📈 Arrears Report
+
+![Arrears](screenshots/arrearsreport.jpg)
+
+---
+
+## 💰 Financial Transactions
+
+![Financial Transactions](screenshots/financialtransactions.jpg)
+
+---
+
+## 📊 Finance Entry Form
+
+![Finance Entry Form](screenshots/financeentryform.jpg)
