@@ -47,3 +47,44 @@
 ## 🏗️ System Architecture
 
 ![System Architecture](diagrams/system-architecture.jpg)
+
+---
+
+## 🎯 Business Problem
+
+Many homeowners' associations still manage dues, expenses, and reports manually using spreadsheets, resulting in:
+
+- Time-consuming payment posting
+- Manual computation of arrears
+- Duplicate records
+- Delayed financial reports
+- Limited visibility into HOA finances
+
+---
+
+## 💡 Solution
+
+This project automates the HOA financial workflow using Google Workspace and Make.com, providing:
+
+- Automated payment posting
+- Real-time member ledger updates
+- Expense tracking
+- Financial dashboards
+- Automated arrears monitoring
+- Dynamic reports
+
+---
+
+## 📈 Business Impact
+
+✔ Reduced manual payment posting
+
+✔ Improved reporting accuracy
+
+✔ Automated monthly financial summaries
+
+✔ Simplified HOA bookkeeping
+
+✔ Centralized homeowner records
+
+✔ Increased operational efficiency
