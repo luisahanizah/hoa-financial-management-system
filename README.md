@@ -51,3 +51,8 @@ Dashboard & Reports
 ## 📌 Project Goal
 
 To replace manual HOA bookkeeping with an automated, centralized, and easy-to-use financial management system that improves accuracy, reporting, and operational efficiency.
+## 📸 Workflow Preview
+
+### Make.com Payment Automation
+
+![Make Workflow](screenshots/makeworkflowhoa.jpg)
